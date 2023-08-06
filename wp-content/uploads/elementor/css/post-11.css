@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100;200;300;400;500;600;700&display=swap');
 .elementor-11 .elementor-element.elementor-element-0e9a76b>.elementor-container {
     max-width: 1600px;
 }
@@ -77,15 +78,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-44a59f4 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 67px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-6f84d11>.elementor-container {
@@ -122,15 +123,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-5b31b39 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 24px;
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-b64db28 {
@@ -139,16 +140,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-ef122cd .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -164,16 +165,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-45acad6 .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -189,16 +190,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-2a48b21 .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -257,7 +258,7 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-86b738e>.elementor-element-populated>.elementor-background-overlay {
-    background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-03-at-11.25.41-pm.png");
+    background-image: url("./../../../../degen/3.jpg");
     background-position: 0px -369px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -279,7 +280,7 @@
 
 .elementor-11 .elementor-element.elementor-element-3340081 .elementor-heading-title {
     color: #000000;
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 25px;
     font-weight: 600;
 }
@@ -289,15 +290,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-0801596 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 69px;
-    font-weight: 600;
+    font-weight: 500;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-0801596>.elementor-widget-container {
@@ -311,7 +312,7 @@
 .elementor-11 .elementor-element.elementor-element-854f0da:not(.elementor-motion-effects-element-type-background),
 .elementor-11 .elementor-element.elementor-element-854f0da>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F4EA1200 0%, #91747B00 100%);
+    background-image: linear-gradient(180deg, #121af400 0%, #91747B00 100%);
 }
 
 .elementor-11 .elementor-element.elementor-element-854f0da {
@@ -340,24 +341,24 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-f81c268 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 69px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-8fe437a {
     text-align: left;
     color: #FFFFFF;
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 17px;
     font-weight: 600;
-    text-shadow: 0px 0px 10px #F5C902;
+    text-shadow: 0px 0px 10px #21a8f1;
     width: 100%;
     max-width: 100%;
 }
@@ -368,16 +369,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-2231614 .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -393,16 +394,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-7caa180 .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -475,7 +476,7 @@
 
 .elementor-11 .elementor-element.elementor-element-4ea54e2>.elementor-background-overlay {
     background-color: #FFFFFF00;
-    background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/images-30-1.jpeg");
+    background-image: url("./../../../../degen/3.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -485,7 +486,7 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-4ea54e2:hover>.elementor-background-overlay {
-    background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/images-30.jpeg");
+    background-image: url("./../../../../degen/6.jpg");
     background-position: center center;
     background-size: cover;
     opacity: 1;
@@ -516,8 +517,8 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-0bb3711>.elementor-element-populated>.elementor-background-overlay {
-    background-color: #FFFFFF00;
-    background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-03-at-11.20.32-pm.png");
+    background-color: #0b070798;
+    background-image: url("./../../../../degen/10.webp");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -545,7 +546,7 @@
 
 .elementor-11 .elementor-element.elementor-element-ed321da .elementor-heading-title {
     color: #000000;
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 25px;
     font-weight: 600;
 }
@@ -555,15 +556,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-d62f306 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 69px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-863c495 {
@@ -571,22 +572,22 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-863c495 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 37px;
     font-weight: 600;
     font-style: italic;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-03d6fb1 {
     text-align: left;
     color: #000000;
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 17px;
     font-weight: 600;
     text-shadow: 0px 0px 8px #FFFFFF;
@@ -601,16 +602,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-b52d2f3 .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -626,16 +627,16 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-ebe1674 .elementor-button {
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 20px;
     font-weight: 500;
-    text-shadow: 0px 2px 7px #F5C902;
+    text-shadow: 0px 2px 7px #21a8f1;
     fill: #FFFFFF;
     color: #FFFFFF;
     background-color: #61CE7000;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #f4ea12;
+    border-color: #121af4;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 0px 0px 10px 0px rgba(255, 244.96148393194707, 189.0326086956522, 0.5);
     padding: 7px 7px 7px 7px;
@@ -696,21 +697,21 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-37b813b .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 69px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-61d2bfb {
     text-align: left;
     color: #FFFFFF;
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 17px;
     font-weight: 600;
     text-shadow: 0px 0px 8px #FFFFFF;
@@ -804,7 +805,7 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-61824fb>.elementor-element-populated>.elementor-background-overlay {
-    background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-03-at-11.25.41-pm.png");
+    background-image: url("./../../../../degen/3.jpg");
     background-position: 0px -369px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -826,7 +827,7 @@
 
 .elementor-11 .elementor-element.elementor-element-6949f59 .elementor-heading-title {
     color: #000000;
-    font-family: "Roboto", Sans-serif;
+    font-family: 'Josefin Slab', serif;
     font-size: 25px;
     font-weight: 600;
 }
@@ -836,15 +837,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-ce87db8 .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 69px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-ce87db8>.elementor-widget-container {
@@ -912,7 +913,7 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-a913236>.elementor-background-overlay {
-    background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/sonic-adventure.gif");
+    background-image: url("./../../../../degen/18.gif");
     background-position: center center;
     background-size: 25% auto;
     opacity: 0.5;
@@ -951,15 +952,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-1f6602f .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 67px;
     font-weight: 600;
     -webkit-text-stroke-width: 2px;
     stroke-width: 2px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-58e6dbc img {
@@ -975,15 +976,15 @@
 }
 
 .elementor-11 .elementor-element.elementor-element-466a18f .elementor-heading-title {
-    color: #FF0E0E;
-    font-family: "Roboto", Sans-serif;
+    color: #ffffff;
+    font-family: 'Josefin Slab', serif;
     font-size: 25px;
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #f4ea12;
-    stroke: #f4ea12;
-    text-shadow: 0px 0px 10px #F5C902;
+    -webkit-text-stroke-color: #121af4;
+    stroke: #121af4;
+    text-shadow: 0px 0px 10px #21a8f1;
 }
 
 .elementor-11 .elementor-element.elementor-element-43a6be3 .elementor-repeater-item-00197e2.elementor-social-icon {
@@ -1111,7 +1112,7 @@
         background-size: 683px auto;
     }
     .elementor-11 .elementor-element.elementor-element-0e9a76b>.elementor-background-overlay {
-        background-image: url("https://hpok9i.com/wp-content/uploads/2023/08/sonic-sprite-sonic1.gif");
+        background-image: url("./../../../../degen/15.gif");
         background-size: 287px auto;
         opacity: 0.66;
     }
